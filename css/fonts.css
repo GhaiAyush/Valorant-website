@@ -1,0 +1,59 @@
+/*  font-family: Abel  */
+@font-face {
+  font-family: Abel;
+  src: url("../fonts/Abel/Abel-Regular.ttf");
+}
+
+/*  font-family: Anton  */
+@font-face {
+  font-family: Anton;
+  src: url("../fonts/Anton/Anton-Regular.ttf");
+}
+
+/*  font-family: Josefin  */
+@font-face {
+  font-family: Josefin;
+  src: url("../fonts/Josefin_Sans/JosefinSans-Regular.ttf");
+}
+
+/*  font-family: Lexend  */
+@font-face {
+  font-family: Lexend;
+  src: url("../fonts/Lexend_Deca/LexendDeca-Regular.ttf");
+}
+
+/*  font-family: Livvic  */
+@font-face {
+  font-family: Livvic;
+  src: url("../fonts/Livvic/Livvic-Regular.ttf");
+}
+/*  font-family: Alfa  */
+@font-face {
+  font-family: Alfa;
+  src: url("../fonts/Alfa_Slab_One/AlfaSlabOne-Regular.ttf");
+}
+/*  font-family: permanent  */
+@font-face {
+  font-family: Permanent;
+  src: url("../fonts/Permanent_Marker/PermanentMarker-Regular.ttf");
+}
+/*  font-family: Pirata  */
+@font-face {
+  font-family: Pirata;
+  src: url("../fonts/Pirata_One/PirataOne-Regular.ttf");
+}
+/*  font-family: Press  */
+@font-face {
+  font-family: Press;
+  src: url("../fonts/Press_Start_2P/PressStart2P-Regular.ttf");
+}
+/*  font-family: Ruslan  */
+@font-face {
+  font-family: Ruslan;
+  src: url("../fonts/Ruslan_Display/RuslanDisplay-Regular.ttf");
+}
+/*  font-family: Zen  */
+@font-face {
+  font-family: Zen;
+  src: url("../fonts/Zen_Tokyo_Zoo/ZenTokyoZoo-Regular.ttf");
+}
